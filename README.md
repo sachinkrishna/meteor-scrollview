@@ -7,7 +7,7 @@ Limits at the moment / todo:
 * List have to be infinite - theres currently no way of limiting scroll
 * Still not user friendly - it should be safely contained as a ui block helper
 * Data cells have to be uniform in size - this will not change
-* Currently only support horisontal scrolling
+* Currently only support horizontal scrolling
 
 ### Example
 ```js
